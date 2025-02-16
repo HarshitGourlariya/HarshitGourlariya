@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Python,Tkinter**
+- 🌱 I’m currently learning **Python Library,Django**
 
 - 👨‍💻 All of my projects are available at [https://github.com/HarshitGourlariya](https://github.com/HarshitGourlariya)
 
-- 📝 I regularly write articles on [https://pythonlearninghg.blogspot.com/](https://pythonlearninghg.blogspot.com/)
+  <!----📝 I regularly write articles on [https://pythonlearninghg.blogspot.com/](https://pythonlearninghg.blogspot.com/)----->
 
 - 📫 How to reach me **hgourlariya@gmail.com**
 
