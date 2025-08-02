@@ -13,7 +13,7 @@
 
 <!-- Animation: Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=3e7ddd&width=435&lines=Full+Stack+Developer;Python+Django+React+Fan;Open+Source+Contributor;Always+Learnin..." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=3e7ddd&width=435&lines=Full+Stack+Developer;Python+Django+React+Fan;Open+Source+Contributor;Always+Learning..." />
 </p>
 
 ---
