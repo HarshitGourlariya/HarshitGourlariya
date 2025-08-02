@@ -13,7 +13,7 @@
 
 <!-- Animation: Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=3e7ddd&width=435&lines=Full+Stack+Developer;Python+Django+React+Fan;Open+Source+Contributor;Always+Learning+New+Tech!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=3e7ddd&width=435&lines=Full+Stack+Developer;Python+Django+React+Fan;Open+Source+Contributor;Always+Learnin..." />
 </p>
 
 ---
@@ -34,6 +34,21 @@
 [![Harshit Gourlariya's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshitGourlariya&show_icons=true&theme=radical)](https://github.com/HarshitGourlariya)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitGourlariya&layout=compact&theme=radical)](https://github.com/HarshitGourlariya)
 [![Profile Views](https://komarev.com/ghpvc/?username=HarshitGourlariya&color=blue&style=flat)](https://github.com/HarshitGourlariya)
+
+---
+
+## 🚀 My Pull Requests
+
+Here are some of the pull requests I have made (8 and counting!):
+
+- [Html HardTask Completed](https://github.com/fork-commit-merge/fork-commit-merge/pull/4303)
+- [Card Created](https://github.com/fork-commit-merge/fork-commit-merge/pull/4300)
+- [Made changes to Navbar responsiveness](https://github.com/Ansh-dhanani/react_template/pull/2)
+- [Hide the Key and removed index.js](https://github.com/shreyarai2102/weathergetp/pull/1)
+- [NewsHub_Python](https://github.com/geekcomputers/Python/pull/2526)
+- [Update README.md](https://github.com/HarshitGourlariya/HarshitGourlariya/pull/1)
+- [Anonymous text messaging app using Python](https://github.com/geekcomputers/Python/pull/2523)
+- [style: use title case for attr-translate-yes-state and attr-translate…](https://github.com/whatwg/html/pull/11027)
 
 ---
 
