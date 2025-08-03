@@ -31,9 +31,18 @@
 
 ## 🏅 GitHub Badges & Achievements
 
-[![Harshit Gourlariya's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshitGourlariya&show_icons=true&theme=radical)](https://github.com/HarshitGourlariya)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitGourlariya&layout=compact&theme=radical)](https://github.com/HarshitGourlariya)
-[![Profile Views](https://komarev.com/ghpvc/?username=HarshitGourlariya&color=blue&style=flat)](https://github.com/HarshitGourlariya)
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=HarshitGourlariya&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=synthwave&cache_seconds=1800" height="350"/>
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HarshitGourlariya&theme=transparent" height="350"/>
+    </td>
+  </tr>
+</table>
+
+
 
 ---
 
