@@ -2,9 +2,7 @@
 
 [![Full Stack Developer](https://img.shields.io/badge/Full%20Stack%20Developer-Expert-blueviolet?style=for-the-badge&logo=github)](https://github.com/HarshitGourlariya)
 [![Pull Shark](https://img.shields.io/badge/Pull%20Shark-Achievement-4c8eda?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HarshitGourlariya)
-<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" alt="Pull Shark" width="40" />
 
----
 
 <!-- Animation: Waving Hand -->
 <p align="center">
