@@ -44,18 +44,7 @@
 
 ---
 
-## 🚀 My Pull Requests
 
-Here are some of the pull requests I have made (8 and counting!):
-
-- [Html HardTask Completed](https://github.com/fork-commit-merge/fork-commit-merge/pull/4303)
-- [Card Created](https://github.com/fork-commit-merge/fork-commit-merge/pull/4300)
-- [Made changes to Navbar responsiveness](https://github.com/Ansh-dhanani/react_template/pull/2)
-- [Hide the Key and removed index.js](https://github.com/shreyarai2102/weathergetp/pull/1)
-- [NewsHub_Python](https://github.com/geekcomputers/Python/pull/2526)
-- [Update README.md](https://github.com/HarshitGourlariya/HarshitGourlariya/pull/1)
-- [Anonymous text messaging app using Python](https://github.com/geekcomputers/Python/pull/2523)
-- [style: use title case for attr-translate-yes-state and attr-translate…](https://github.com/whatwg/html/pull/11027)
 
 ---
 
