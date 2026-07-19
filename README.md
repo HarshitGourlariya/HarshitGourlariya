@@ -1,68 +1,261 @@
-# Hi there 👋, I'm Harshit Gourlariya
+<!-- ============================================================================== -->
+<!-- PROFESSIONAL GITHUB PROFILE - HARSHIT GOURLARIYA -->
+<!-- A Fourth-Year ECE Undergraduate | AI & Full-Stack Developer -->
+<!-- ============================================================================== -->
 
-[![Full Stack Developer](https://img.shields.io/badge/Full%20Stack%20Developer-Expert-blueviolet?style=for-the-badge&logo=github)](https://github.com/HarshitGourlariya)
-[![Pull Shark](https://img.shields.io/badge/Pull%20Shark-Achievement-4c8eda?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HarshitGourlariya)
+<div align="center">
 
+<!-- Header Banner -->
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&height=60&lines=Harshit+Gourlariya;Full+Stack+Developer+%26+AI+Enthusiast;Building+Intelligent+Solutions" alt="Professional Greeting" />
+</h1>
 
-<!-- Animation: Waving Hand -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/HarshitGourlariya/HarshitGourlariya/main/assets/wave.gif" alt="Waving Hand" width="60"/>
+<!-- Animated Waving Hand -->
+<img src="https://raw.githubusercontent.com/HarshitGourlariya/HarshitGourlariya/main/assets/wave.gif" alt="Wave" width="60" height="60" />
+
+<!-- Professional Introduction -->
+<p>
+  <strong>Fourth-Year Electronics & Communication Engineering Undergraduate</strong>
+  <br />
+  Passionate about building intelligent software solutions through clean architecture,
+  <br />
+  efficient algorithms, and intuitive user experiences.
 </p>
 
-<!-- Animation: Typing Effect -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=3e7ddd&width=435&lines=Full+Stack+Developer;Python+Django+React+Fan;Open+Source+Contributor;Always+Learning..." />
-</p>
+<!-- Badges -->
+<div>
+  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-Expert-3B82F6?style=for-the-badge&logo=github&logoColor=white" alt="Full Stack Developer" />
+  <img src="https://img.shields.io/badge/AI%20%26%20ML-Enthusiast-10B981?style=for-the-badge&logo=pytorch&logoColor=white" alt="AI & ML Enthusiast" />
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-F59E0B?style=for-the-badge&logo=github&logoColor=white" alt="Open Source" />
+  <img src="https://img.shields.io/badge/Pull%20Shark-Achievement-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Pull Shark" />
+</div>
+
+<!-- Profile Views Counter -->
+<br />
+<img src="https://komarev.com/ghpvc/?username=HarshitGourlariya&style=for-the-badge&color=3B82F6" alt="Profile Views" />
+
+</div>
 
 ---
 
-## 🛠️ Languages & Frameworks
+## 👨‍💻 About Me
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
-[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com)
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com)
-[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+I'm a **fourth-year Electronics and Communication Engineering undergraduate** with a strong foundation in:
+
+- **Artificial Intelligence & Machine Learning** – Building intelligent systems and ML models
+- **Full-Stack Development** – React, Python, and modern web technologies
+- **Software Engineering** – Clean code, algorithms, and system design
+- **Open Source** – Contributing to community-driven projects
+- **Problem Solving** – Competitive programming and algorithmic challenges
+
+I enjoy transforming complex problems into elegant solutions while continuously learning new technologies and best practices. My approach combines technical depth with user-centric design thinking.
 
 ---
 
-## 🏅 GitHub Badges & Achievements
+## 🎯 Current Focus
 
-<table align="center">
+- 🤖 Exploring **Agentic AI** and autonomous intelligent systems
+- 🧠 Deepening expertise in **Machine Learning** and data-driven applications
+- 💻 Building full-stack applications with **React** and **Python**
+- 📚 Contributing to **open-source projects** and community initiatives
+- ⚡ Solving challenging problems through **Data Structures & Algorithms**
+
+---
+
+## 🛠️ Tech Stack
+
+<div>
+
+### **Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### **Frontend Development**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### **Backend & Frameworks**
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### **AI & ML**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### **Developer Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+### **Core Computer Science**
+- 📊 Data Structures & Algorithms
+- 🗄️ Database Management Systems
+- 🧠 Artificial Intelligence & Machine Learning
+- 🖥️ Software Engineering Principles
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<!-- GitHub Stats Card -->
+<table>
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=HarshitGourlariya&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=synthwave&cache_seconds=1800" height="350"/>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=HarshitGourlariya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
     </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HarshitGourlariya&theme=transparent" height="350"/>
+    <td width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshitGourlariya&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
 
+<!-- Top Languages Card -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitGourlariya&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
 
+<!-- Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshitGourlariya&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+
+<!-- Trophy Board -->
+<img src="https://github-profile-trophy.vercel.app/?username=HarshitGourlariya&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophy" />
+
+</div>
 
 ---
 
+## 🏆 Certifications
 
+<div>
+
+| Certification | Issuer | Details |
+|:---|:---|:---|
+| **Python Level I** | Cisco Networking Academy | Foundational Python programming and concepts |
+| **Design and Analysis of Algorithms** | NPTEL (IIT Madras) | Advanced algorithms and complexity analysis |
+| **Database Management Systems** | NPTEL (IIT Kharagpur) | Database design, SQL, and data modeling |
+
+</div>
+
+---
+
+## 🎖️ Achievements
+
+### 🥈 **BitBox 6.0 Hackathon - Second Place**
+- Developed an innovative solution showcasing strong **teamwork and problem-solving**
+- Demonstrated expertise in rapid prototyping and **system design**
+- Built and presented a functional product under time constraints
+- Collaborated effectively with team members to deliver excellence
+
+---
+
+## 📌 Featured Projects
+
+Explore my best work and contributions. Each project demonstrates different aspects of my expertise.
+
+### 🌟 **Top Repositories**
+
+> **Note:** Click on the repositories below to explore detailed implementations, documentation, and code quality.
+
+| Project | Description | Stack |
+|:---|:---|:---|
+| **[CodeCanvas](https://github.com/HarshitGourlariya/CodeCanvas)** | Open-source platform for front-end developers to discover and share creative HTML, CSS, and JavaScript projects | HTML, CSS, JavaScript |
+| **[Anonymous Text App](https://github.com/HarshitGourlariya/Anonymous_Text_App)** | Secure application leveraging APIs for anonymous text messaging while maintaining privacy | Python, APIs |
+| **[NewsHub](https://github.com/HarshitGourlariya/NewsHub)** | Dynamic news application using APIs and Tkinter for real-time news delivery | Python, APIs, Tkinter |
+| **[Weather App](https://github.com/HarshitGourlariya/Weather_App)** | Real-time weather application with location-based data retrieval | Python, Tkinter, APIs |
+
+### 💾 **More Projects**
+
+Explore additional repositories on my GitHub:
+- **React Template** – Pre-configured React project with Tailwind CSS and favorite libraries
+- **Task Manager** – Task management application with modern UI
+- **Portfolio** – Personal portfolio website showcasing projects and experience
+- **Leet** – Competitive programming solutions in C++
+- **Python Blog** – Educational content on Python development
+
+---
+
+## 🌍 Open Source & Community
+
+### **Contributions**
+- ✅ Regular contributor to open-source projects
+- 🔄 Pull requests and code reviews
+- 💬 Discussions and community engagement
+- 🎯 Actively seeking meaningful contributions
+
+### **Community Involvement**
+- 🏅 Hackathon participation and innovation
+- 📚 Knowledge sharing through blog and projects
+- 🤝 Collaborative problem-solving
+- 🎓 Peer learning and mentorship
+
+---
+
+## 📚 Latest Blog Posts
+
+> 📝 Check out my **[Python Learning Blog](https://pythonlearninghg.blogspot.com/)** for tutorials, tips, and insights on Python development.
 
 ---
 
 ## 🤝 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/harshit-gourlariya-a92b65299)
-[![Python Blog](https://img.shields.io/badge/Python%20Blog-Visit-brightgreen?style=for-the-badge&logo=blogger)](https://pythonlearninghg.blogspot.com/)
+I'm always interested in collaborating on interesting projects, discussing technology, and building meaningful connections.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshit-gourlariya-a92b65299)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HarshitGourlariya)
+[![Python Blog](https://img.shields.io/badge/Python%20Blog-FF6B35?style=for-the-badge&logo=blogger&logoColor=white)](https://pythonlearninghg.blogspot.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-24292E?style=for-the-badge&logo=github-pages&logoColor=white)](https://github.com/HarshitGourlariya/Portfolio)
+
+</div>
 
 ---
 
-## ✨ Fun Facts
+## 💡 Fun Facts
 
-- Ubuntu enthusiast & open source contributor
-- Love working on hackathons and team challenges
-- Always learning new tech!
+- 🐧 Ubuntu enthusiast and Linux advocate
+- 🎯 Passionate about hackathons and team challenges
+- 📖 Continuous learner – always exploring new technologies
+- 🤖 Fascinated by AI and its real-world applications
+- ⚙️ Believer in clean code and best practices
 
 ---
 
-<!--
-**HarshitGourlariya/HarshitGourlariya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+## 📈 Let's Grow Together
+
+Feel free to explore my repositories, contribute to projects, or reach out for collaboration. I'm always open to interesting opportunities, technical discussions, and networking!
+
+<div align="center">
+
+[![GitHub Followers](https://img.shields.io/github/followers/HarshitGourlariya?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HarshitGourlariya?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/HarshitGourlariya?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HarshitGourlariya)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ If you find my work interesting, don't forget to star the repositories and follow for updates!
+
+**Last Updated:** 2026-07-19  
+**Location:** India
+
+---
+
+*This profile is constantly evolving. Check back for the latest updates and projects!*
+
+</div>
+
+<!-- ============================================================================== -->
+<!-- END OF PROFILE README -->
+<!-- ============================================================================== -->
