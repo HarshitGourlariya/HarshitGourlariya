@@ -6,12 +6,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&height=60&lines=Harshit+Gourlariya;Full+Stack+Developer+%26+AI+Enthusiast;Building+Intelligent+Solutions" alt="Professional Greeting" />
-</h1>
-
-<!-- Animated Waving Hand -->
-<img src="https://raw.githubusercontent.com/HarshitGourlariya/HarshitGourlariya/main/assets/wave.gif" alt="Wave" width="60" height="60" />
+<h1>Harshit Gourlariya</h1>
 
 <!-- Professional Introduction -->
 <p>
@@ -29,10 +24,6 @@
   <img src="https://img.shields.io/badge/Open%20Source-Contributor-F59E0B?style=for-the-badge&logo=github&logoColor=white" alt="Open Source" />
   <img src="https://img.shields.io/badge/Pull%20Shark-Achievement-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Pull Shark" />
 </div>
-
-<!-- Profile Views Counter -->
-<br />
-<img src="https://komarev.com/ghpvc/?username=HarshitGourlariya&style=for-the-badge&color=3B82F6" alt="Profile Views" />
 
 </div>
 
@@ -108,26 +99,11 @@ I enjoy transforming complex problems into elegant solutions while continuously 
 
 <div align="center">
 
-<!-- GitHub Stats Card -->
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=HarshitGourlariya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshitGourlariya&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
-
-<!-- Top Languages Card -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitGourlariya&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
-
-<!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshitGourlariya&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-
-<!-- Trophy Board -->
-<img src="https://github-profile-trophy.vercel.app/?username=HarshitGourlariya&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophy" />
+| Metric | Badge |
+|:---|:---|
+| GitHub Stats | ![GitHub Stats](https://img.shields.io/badge/View%20Profile-HarshitGourlariya-181717?style=for-the-badge&logo=github) |
+| Contributions | ![Contributions](https://img.shields.io/badge/Active%20Contributor-Open%20Source-0A66C2?style=for-the-badge) |
+| Focus Areas | ![Focus](https://img.shields.io/badge/AI%2C%20Web%20Dev%2C%20Algorithms-Expert-10B981?style=for-the-badge) |
 
 </div>
 
@@ -135,15 +111,11 @@ I enjoy transforming complex problems into elegant solutions while continuously 
 
 ## 🏆 Certifications
 
-<div>
-
 | Certification | Issuer | Details |
 |:---|:---|:---|
 | **Python Level I** | Cisco Networking Academy | Foundational Python programming and concepts |
 | **Design and Analysis of Algorithms** | NPTEL (IIT Madras) | Advanced algorithms and complexity analysis |
 | **Database Management Systems** | NPTEL (IIT Kharagpur) | Database design, SQL, and data modeling |
-
-</div>
 
 ---
 
